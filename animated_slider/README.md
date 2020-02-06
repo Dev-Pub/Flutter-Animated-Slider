@@ -43,12 +43,12 @@ AnimatedSlider(
 |onSuccess              |define a callback when you swipe to right.                                                         |
 |onFailed               |define a callback when you swipe to left.                                                          |
 
-## Plataforma
+## Platform
 |           |Android   |IOS            |Web          |
 |-----------|----------|---------------|-------------|
-|Suporte	|Sim       |Sim            |Não testado  |
+|Support	|Yes       |Yes            |Não testado  |
 
-## Colaboradores
+## Contributors
 - Rafael Kenji Nagai
 
 ## Links

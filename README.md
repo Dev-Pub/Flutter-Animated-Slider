@@ -1,4 +1,4 @@
-# Flutter Animated Slider!
+﻿# Flutter Animated Slider!
 
 ![](/images/sliders_example.gif)
 
@@ -43,12 +43,12 @@ AnimatedSlider(
 |onSuccess              |define a callback when you swipe to right.                                                         |
 |onFailed               |define a callback when you swipe to left.                                                          |
 
-## Plataforma
-|           |Android   |IOS            |Web          |
-|-----------|----------|---------------|-------------|
-|Suporte	|Sim       |Sim            |Não testado  |
+## Platform
+|           |Android   |IOS            |Web           |
+|-----------|----------|---------------|--------------|
+|Support	|Yes       |Yes            |we didn't test|
 
-## Colaboradores
+## Contributors
 - Rafael Kenji Nagai
 
 ## Links
