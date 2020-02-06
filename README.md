@@ -1,6 +1,6 @@
 # Flutter Animated Slider!
 
-[](images/sliders_example.gif)
+![](/images/sliders_example.gif)
 
 If you want to save your time with a animated slider, just install and enjoy it!
 
