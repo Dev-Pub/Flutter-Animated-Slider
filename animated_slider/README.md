@@ -44,9 +44,9 @@ AnimatedSlider(
 |onFailed               |define a callback when you swipe to left.                                                          |
 
 ## Platform
-|           |Android   |IOS            |Web          |
-|-----------|----------|---------------|-------------|
-|Support	|Yes       |Yes            |Não testado  |
+|           |Android   |IOS            |Web           |
+|-----------|----------|---------------|--------------|
+|Support	|Yes       |Yes            |we didn't test|
 
 ## Contributors
 - Rafael Kenji Nagai

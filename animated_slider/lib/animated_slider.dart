@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class SliderAnimated extends StatefulWidget {
+class AnimatedSlider extends StatefulWidget {
   final Key key;
   final double range;
   final double buttonSize;
@@ -16,7 +16,7 @@ class SliderAnimated extends StatefulWidget {
   final Function onSuccess;
   final Function onFailed;
 
-  SliderAnimated({
+  AnimatedSlider({
     this.key,
     this.range = 0.8,
     this.buttonIcon,
@@ -34,10 +34,10 @@ class SliderAnimated extends StatefulWidget {
   }) : super(key: key);
 
   @override
-  SliderAnimatedState createState() => SliderAnimatedState();
+  AnimatedSliderState createState() => AnimatedSliderState();
 }
 
-class SliderAnimatedState extends State<SliderAnimated> with TickerProviderStateMixin {
+class AnimatedSliderState extends State<AnimatedSlider> with TickerProviderStateMixin {
   GlobalKey _keyWidget = GlobalKey();
   double _positionX = 0;
   double _scaleButton = 1.3;
