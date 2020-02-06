@@ -46,7 +46,7 @@ AnimatedSlider(
 ## Plataforma
 |           |Android   |IOS            |Web          |
 |-----------|----------|---------------|-------------|
-|Suporte	|Sim       |Sim            |Não testado  |
+|Suporte	|Sim       |Sim            |NÃ£o testado  |
 
 ## Colaboradores
 - Rafael Kenji Nagai
